@@ -1,14 +1,10 @@
 '''
 ################
-To run, execute python symspell_python.py at the prompt.
-Make sure the dictionary "big.txt" is in the current working directory.
-Enter word to correct when prompted.
-################
 v 0.1
 ################
-This program is a Python version of a spellchecker based on SymSpell, 
-a Symmetric Delete spelling correction algorithm developed by Wolf Garbe 
-and originally written in C#.
+This programs is a python 3 version of the Python fork(created by @ppgmg) of spellchecker
+based on SymSpell a Symmetric Delete spelling correction algorithm 
+developed by Wolf Garbe and originally written in C#.
 Please read the original documentation here:
   URL: blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/
   Description: blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/
